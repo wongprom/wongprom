@@ -1,4 +1,4 @@
-# Jimmy Wongprom Bäckström
+# Hi there, I'm Jimmy Wongprom Bäckström
 #### Frontend-development and Customer service
 My name is Jimmy and are from Sweden, I do frontend work and keep customers pleased.
 
