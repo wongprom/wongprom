@@ -1,6 +1,6 @@
 ##Jimmy Wongprom Bäckström
 #### Frontend-development and Customer service
-![Frontend-development and Customer service](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Frontend-development and Customer service]
 
 My name is Jimmy and are from Sweden, and I do frontend work and keep customers pleased.
 
