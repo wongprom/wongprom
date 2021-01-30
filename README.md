@@ -1,7 +1,5 @@
-##Jimmy Wongprom Bäckström
+### Jimmy Wongprom Bäckström
 #### Frontend-development and Customer service
-![Frontend-development and Customer service]
-
 My name is Jimmy and are from Sweden, and I do frontend work and keep customers pleased.
 
 Skills:  REACT / JS / HTML / CSS
