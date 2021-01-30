@@ -3,13 +3,16 @@
 My name is Jimmy and are from Sweden, I do frontend work and keep customers pleased.
 
 
+
 ## Skills and Experience
 * ⚛️ React
 * 💻  JS / HTML / CSS
 
 
+
 ## 📫  Don't be a Stranger 
 Want to get in touch? Weather you're interested in working on a project together or just want to say hello, feel free to email me at opportunity@jimmybackstrom.com
+
 
 
 [![Wongprom's GitHub stats](https://github-readme-stats.vercel.app/api?username=wongprom&theme=radical&show_icons=true)](https://github.com/wongprom/github-readme-stats)
