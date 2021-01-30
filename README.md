@@ -5,7 +5,7 @@ My name is Jimmy and are from Sweden, I do frontend work and keep customers plea
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='white'>](https://www.linkedin.com/in/jimmy-backstrom/)  
 
 ## Skills and Experience
-- ✴  React
+- ⚛️ React
 - 💻  JS / HTML / CSS
 
 
