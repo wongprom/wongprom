@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Wongprom's GitHub stats](https://github-readme-stats.vercel.app/api?username=wongprom)](https://github.com/wongprom/github-readme-stats)
+[![Wongprom's GitHub stats](https://github-readme-stats.vercel.app/api?username=wongprom&theme=radical&show_icons=true)](https://github.com/wongprom/github-readme-stats)
 
 <!--
 **wongprom/wongprom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
