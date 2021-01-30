@@ -2,14 +2,13 @@
 #### Frontend-development and Customer service
 My name is Jimmy and are from Sweden, I do frontend work and keep customers pleased.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' color='white'>](https://www.linkedin.com/in/jimmy-backstrom/)  
 
 ## Skills and Experience
 * ⚛️ React
 * 💻  JS / HTML / CSS
 
 
-## Don't be a Stranger
+## 📫  Don't be a Stranger 
 Want to get in touch? Weather you're interested in working on a project together or just want to say hello, feel free to email me at opportunity@jimmybackstrom.com
 
 
