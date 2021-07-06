@@ -13,7 +13,8 @@ My name is Jimmy and are from Sweden, I do frontend work and keep customers plea
 | Javascript  | TailwindCSS |   MongoDB | Api |
 | React       | SaSS | Node |  BEM |
 | Next        | Styled-Components |  | Stripe Payments |
-| TypeScript  | Bootstrap |   |  |
+| TypeScript  | Bootstrap |   | Bug-Fix |
+| | | |  Refactoring |
 
 
 ## 📫  Don't be a Stranger 
