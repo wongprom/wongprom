@@ -5,9 +5,15 @@ My name is Jimmy and are from Sweden, I do frontend work and keep customers plea
 
 
 ## Skills and Experience
-* ⚛️ React
-* 💻  JS / HTML / CSS
 
+
+| **Frontend**       | **Styling**     | **Backend/DB** | **Others** |
+| :-------------: |:-----------:|:-----:|:-----:|
+| HTML        | CSS | Firebase |Axios |
+| Javascript  | TailwindCSS |   MongoDB | Api |
+| React       | SaSS | Node |  BEM |
+| Next        | Styled-Components |  | Stripe Payments |
+| TypeScript  | Bootstrap |   |  |
 
 
 ## 📫  Don't be a Stranger 
