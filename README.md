@@ -18,7 +18,7 @@ My name is Jimmy and are from Sweden, I do frontend work and keep customers plea
 
 
 ## 📫  Don't be a Stranger 
-Want to get in touch? Weather you're interested in working on a project together or just want to say hello, feel free to email me at opportunity@jimmybackstrom.com
+Want to get in touch? Weather you're interested in working on a project together or just want to say hello, feel free to email me at jimmybackstrom@hotmail.com
 
 
 
